@@ -1,0 +1,28 @@
+body {
+  background-color: blanchedalmond;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: italic;
+}
+
+ul {
+  background-color: lightsalmon;
+  color: blanchedalmond;
+}
+.nav-link {
+  color: blanchedalmond;
+}
+
+.nav-link:hover {
+  color: red;
+}
+.active {
+  text-decoration: underline;
+}
